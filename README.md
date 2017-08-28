@@ -1,2 +1,3 @@
 # TributePage
-Bootstrap blockquotes not fully working on GitHub pages, they work locally.
+FreeCodeCamp tribute page project.  
+Tribute to Ayrton Senna.
